@@ -21,13 +21,13 @@ This application uses to paint or to draw your Art
 ```
 
 $ python paint.py<br>
-
+```
 
 ### Prerequisites
-```
+
 
 [Python](https://www.python.org/)
-```
+
 
 [Tkinter](https://docs.python.org/3/library/tkinter.html)
 
