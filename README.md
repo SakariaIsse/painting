@@ -19,8 +19,8 @@ This application uses to paint or to draw your Art
 
 ## Running the application
 
-$ python paint.py
-'''
+$ python paint.py<br>
+```
 
 ## Prerequisites
 
