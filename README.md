@@ -2,8 +2,12 @@
 
 A simple python painting App gui that you can paint 
 any color you want.
+
 And you can change background color.
+
 And you can save your paint
+
+you can increase or decrease your size of your painting
 
 ## Description
 
