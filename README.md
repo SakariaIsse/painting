@@ -17,13 +17,17 @@ This application uses to paint or to draw your Art
 
 [Painting Video](https://youtu.be/PW7EHAiQ0Qg)
 
-## Running the application
-
-$ python paint.py<br>
+### Running the application
 ```
 
-## Prerequisites
+$ python paint.py<br>
+
+
+### Prerequisites
+```
 
 [Python](https://www.python.org/)
+```
 
 [Tkinter](https://docs.python.org/3/library/tkinter.html)
+```
