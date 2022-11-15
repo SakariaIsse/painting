@@ -20,7 +20,7 @@ This application uses to paint or to draw your Art
 ### Running the application
 ```
 
-$ python paint.py<br>
+$ python paint.py
 ```
 
 ### Prerequisites
