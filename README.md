@@ -1,6 +1,9 @@
-# Python painting Application GUI
+# paint
 
-A simple painting App gui
+A simple python painting App gui that you can paint 
+any color you want.
+And you can change background color.
+And you can save your paint
 
 ## Description
 
@@ -8,7 +11,7 @@ This application uses to paint or to draw your Art
 
 ## The video link:
 
-https://youtu.be/PW7EHAiQ0Qg
+[Painting Video](https://youtu.be/PW7EHAiQ0Qg)
 
 ## Running the application
 
